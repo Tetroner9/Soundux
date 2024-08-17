@@ -88,8 +88,8 @@ Please refer to your distro instructions on how to install
 - Xorg
 - Libwnck3 (optional, for icon support)
 - Webkit2gtk
-- libappindicator3
-- [youtube-dl](https://youtube-dl.org/) & [ffmpeg](https://www.ffmpeg.org/) (optional, for downloader support)
+- libappindicator-gtk3
+- [yt-dlp](https://github.com/yt-dlp) & [ffmpeg](https://www.ffmpeg.org/) (optional, for downloader support)
 ## <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="20"/> Windows
 - [VB-CABLE](https://vb-audio.com/Cable/) (Our installer automatically installs VB-CABLE)
 - [Webview2 Runtime](https://developer.microsoft.com/microsoft-edge/webview2/) (Is also shipped with the installer)
